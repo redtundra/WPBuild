@@ -4,4 +4,6 @@ WPBuild is a custom theme builder that strips out all the unnecessary clutter an
 
 ## Some Love
 
-The icons are <a href="http://pictos.cc/">Pictos by Drew Wilson</a> and the Toggles are inspired by <a href="http://rogieking.com/">Rogie King</a>
+The icons are <a href="http://pictos.cc/">Pictos by Drew Wilson</a>
+
+Toggle styling and functionality are inspired by <a href="http://rogieking.com/">Rogie King</a>
